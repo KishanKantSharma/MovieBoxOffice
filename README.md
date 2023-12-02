@@ -5,6 +5,9 @@
 This online movie comparison app will let you compare the movies by types of movies, rating, awards and more.
 
 ## Sample Project
+## Check it out
+
+Deployed link : https://movie-compare-v1.netlify.app/
 
 ## Home page
 
@@ -17,9 +20,6 @@ This online movie comparison app will let you compare the movies by types of mov
 ## Get the comparision
 ![movie](https://user-images.githubusercontent.com/87421798/152989807-327c3181-55b7-47e0-a286-0fcc317dc662.png)
 
-## Check it out
-
-Deployed link : https://movie-compare-v1.netlify.app/
 
 ## TECH stack
 
